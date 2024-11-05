@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+}
+main {
+  display: flex;
+  flex-direction: row;
+}
+p{
+  margin: 0px;
+}
